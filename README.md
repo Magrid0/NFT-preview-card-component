@@ -25,9 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
-**Not avaible yet.**
+![N/A](./screenshot.jpg)
 
 ### Links
 
