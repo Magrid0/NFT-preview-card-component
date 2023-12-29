@@ -41,7 +41,7 @@ Make the page more mobile friendly and as responsive as possible.
 
 ## Author
 
-- Website - [Magrid0](Magrid0.github.io)
+- Website - [Magrid0](https://Magrid0.github.io)
 - Frontend Mentor - [@Magrid](https://www.frontendmentor.io/profile/Magrid0)
 
 ## Acknowledgments
