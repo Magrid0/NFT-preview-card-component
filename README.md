@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [](https://magrid0.github.io/NFT-preview-card-component/)
+- Solution URL: [N/A](https://your-solution-url.com)
+- Live Site URL: [https://magrid0.github.io/NFT-preview-card-component/](https://magrid0.github.io/NFT-preview-card-component/)
 
 ## My process
 
