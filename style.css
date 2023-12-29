@@ -14,7 +14,7 @@ body {
 
 .rectangle {
     width: 22%;
-    height: 70%;
+    height: 75%;
     background-color: hsl(216, 50%, 16%);
     border-radius: 15px;
     position: absolute;
@@ -43,4 +43,22 @@ body {
 
 .footer a {
     color: #A880F4;
+}
+
+.nft-image {
+    margin: 5% auto 0 auto;
+    max-width: 90%;
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 15px;
+}
+
+
+@media (max-width: 600px) {
+    .nft-image {
+        width: 80%;
+    }
 }
